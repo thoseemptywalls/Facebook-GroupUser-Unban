@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fbook" GeneratedClassName="AppSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">210758279873908
+</Value>
+    </Setting>
+    <Setting Name="AppSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1ff777b3eb685ce7ad216093e8e6744f</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Scope" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
